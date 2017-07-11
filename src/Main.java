@@ -9,5 +9,4 @@ public class Main {
 }
 // push는 Find Action에서
 // fetch는 Find Action에서
-// push는 Find Action에서
-// fetch는 Find Action에서
+
